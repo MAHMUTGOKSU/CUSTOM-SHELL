@@ -13,7 +13,10 @@ Note that running `cmake` in root will overwrite the makefiles.
 # info:
 
 This project was the first project for our Comp304 operating systems project. we have built a custom shell that has several features.
-[Project Report](Project_1_report.pdf)
+
+### You can find our repot here: 
+
+[Project Report](CustomShell_Report.pdf)
 
 Contributor: 
 BSAHLAN
